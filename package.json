@@ -10,7 +10,7 @@
     "Offerman"
   ],
   "author": "Merlin Hughes <merlin@merlin.org>",
-  "license": "WTFPL",
+  "license": "BSD-3-Clause",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [

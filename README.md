@@ -1,7 +1,9 @@
 # nick-offerman
 
+[![npm version](https://badge.fury.io/js/nick-offerman.svg)](https://badge.fury.io/js/nick-offerman)
+
 You know how you always have optional values, `a: A | null |
-undefined`, and you want to make things of them, but not if they're
+undefined`, and you want to make something of them, but not if they're
 nothing. If they're nothing, they should stay nothing, just like
 things are. Something like `a == null ? null : new Something(a)`.
 But you don't want to keep typing that because that's just so much
