@@ -10,7 +10,14 @@
     "Offerman"
   ],
   "author": "Merlin Hughes <merlin@merlin.org>",
+  "contributors": [
+    "Conrad Hughes"
+  ],
   "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merlinorg/nick-offerman.git"
+  },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
