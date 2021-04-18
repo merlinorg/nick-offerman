@@ -51,7 +51,7 @@ const unknown = Something.of(ambiguous); // Something | undefined
 
 ## Optionalisating types
 
-Also the types; `Perhaps` to express the being of optional,
+Also the types; `Perhaps` to express the blessed state of optionality,
 `CoOptional` to widen one type with the optionality of another:
 
 ```typescript
