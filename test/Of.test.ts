@@ -1,9 +1,9 @@
 import { Of } from "../src/";
 
 class Something {
-  constructor(public value: number) {}
-
   public static readonly of = Of(Something);
+
+  constructor(public value: number) {}
 }
 
 test("Making something of null", () => {
