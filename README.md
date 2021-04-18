@@ -8,8 +8,9 @@ nothing. If they're nothing, they should stay nothing, just like
 things are. Something like `a == null ? null : new Something(a)`.
 But you don't want to keep typing that because that's just so much
 work. And it's not nice. And you know how if this was Scala, you'd
-just write something fine so you could type `a ?|> Something` but
-it's not, so you can't, so you just can't have nice things.
+just write something [fyne](https://github.com/learningobjectsinc/scaloi)
+so you could type `a ?|> Something` but it's not, so you can't, so you
+just can't have nice things.
 
 Well now you can.
 
